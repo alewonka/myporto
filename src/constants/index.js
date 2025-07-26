@@ -28,15 +28,15 @@ import {
 export const navLinks = [
   {
     id: "about",
-    title: "About",
+    title: "Tentang",
   },
   {
     id: "work",
-    title: "Work",
+    title: "Kerja",
   },
   {
     id: "contact",
-    title: "Contact",
+    title: "Kontak",
   },
 ];
 
@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Sofware Enginering",
     icon: creator,
   },
 ];
@@ -117,54 +117,54 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
+    company_name: "Intern Garena",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Jul 2022 - Dec 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Mengembangkan dan memelihara aplikasi web menggunakan React.js dan teknologi terkait lainnya.",
+      "Bekerja sama dengan tim lintas fungsi termasuk desainer, manajer produk, dan pengembang lainnya untuk menciptakan produk berkualitas tinggi.",
+      "Menerapkan desain responsif dan memastikan kompatibilitas antar browser.",
+      "Berpartisipasi dalam tinjauan kode dan memberikan masukan konstruktif kepada pengembang lain.",
     ],
   },
   {
     title: "React Native Developer",
-    company_name: "Tesla",
+    company_name: "PT Techbros Digital Solution",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Feb 2023 - Jun 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Mengembangkan dan memelihara aplikasi web menggunakan React.js dan teknologi terkait lainnya.",
+      "Bekerja sama dengan tim lintas fungsi termasuk desainer, manajer produk, dan pengembang lainnya untuk menciptakan produk berkualitas tinggi.",
+      "Menerapkan desain responsif dan memastikan kompatibilitas antar browser.",
+      "Berpartisipasi dalam tinjauan kode dan memberikan masukan konstruktif kepada pengembang lain.",
     ],
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
+    company_name: "Traveloka",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Sep 2024 - Jun 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Mengembangkan dan memelihara aplikasi web menggunakan Next.js dan teknologi terkait lainnya.",
+      "Bekerja sama dengan tim lintas fungsi termasuk desainer, manajer produk, dan pengembang lainnya untuk menciptakan produk berkualitas tinggi.",
+      "Menerapkan desain responsif dan memastikan kompatibilitas antar browser.",
+      "Berpartisipasi dalam tinjauan kode dan memberikan masukan konstruktif kepada pengembang lain.",
     ],
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
+    company_name: "envytech",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jun 2025 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Mengembangkan dan memelihara aplikasi web menggunakan Next.js dan teknologi terkait lainnya.",
+      "Bekerja sama dengan tim lintas fungsi termasuk desainer, manajer produk, dan pengembang lainnya untuk menciptakan produk berkualitas tinggi.",
+      "Menerapkan desain responsif dan memastikan kompatibilitas antar browser.",
+      "Berpartisipasi dalam tinjauan kode dan memberikan masukan konstruktif kepada pengembang lain.",
     ],
   },
 ];
@@ -172,24 +172,24 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
+      "Saya pikir mustahil membuat website yang secantik produk kami, tapi Eggy membuktikan saya salah.",
+    name: "Sarah Lestari",
     designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    company: "PT Acme Jaya",
+    image: "https://randomuser.me/api/portraits/women/75.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+      "Saya belum pernah bertemu pengembang web yang benar-benar peduli terhadap kesuksesan kliennya seperti Eggy.",
+    name: "Christian Pratama",
     designation: "COO",
-    company: "DEF Corp",
+    company: "DEF Corp Indonesia",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "Setelah Eggy mengoptimalkan website kami, trafik meningkat hingga 50%. Kami sangat berterima kasih!",
+    name: "Lisa Wulandari",
     designation: "CTO",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
@@ -198,16 +198,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Wonka Agent",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web multi chatbot yang bisa menjalankan banyak model AI sekaligus, dan di lengkapi dengan fitur-fitur seperti voice agent, Workflows, MCP, 15 Tema, 5 Bahasa.",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "postgres",
         color: "green-text-gradient",
       },
       {
@@ -216,12 +216,12 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://wonkaagent.site",
   },
   {
-    name: "Job IT",
+    name: "Wonka Zoom",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Wonka Zoom yang memungkinkan pengguna untuk melakukan video conference, screen sharing, dan chat dengan fitur keamanan yang kuat.",
     tags: [
       {
         name: "react",
@@ -237,12 +237,12 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://wonkazoom.vercel.app",
   },
   {
-    name: "Trip Guide",
+    name: "AI Resume Builder",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "AI Resume Builder yang memungkinkan pengguna untuk membuat resume profesional dengan mudah menggunakan teknologi AI.",
     tags: [
       {
         name: "nextjs",
@@ -258,7 +258,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://ezzresume.vercel.app",
   },
 ];
 
